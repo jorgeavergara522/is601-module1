@@ -17,6 +17,7 @@ Linux Commands
 10. 	chmod – Change file permissions
 11.	pwd - Show the current working directory
 12.	ls -l - List files with details like permissions, size, and date
+13.	ls -a – List all files, including hidden ones
 
 
 Git Commands
