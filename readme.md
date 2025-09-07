@@ -16,6 +16,7 @@ Linux Commands
 9.	man – Show the manual/help page for a command
 10. 	chmod – Change file permissions
 11.	pwd - Show the current working directory
+12.	ls -l - List files with details like permissions, size, and date
 
 
 Git Commands
