@@ -15,6 +15,7 @@ Linux Commands
 8.	cat – Display the contents of a file
 9.	man – Show the manual/help page for a command
 10. 	chmod – Change file permissions
+11.	pwd - Show the current working directory
 
 
 Git Commands
@@ -28,5 +29,4 @@ Git Commands
 17.	git merge – Merge changes from branch into current branch 
 18.	git push – Push commits to remote (GitHub) 
 19.	git pull – Fetch and merge changes from remote 
-20.	git clone – Copy a remote repo locally 
-21.
+20.	git clone – Copy a remote repo locally  
