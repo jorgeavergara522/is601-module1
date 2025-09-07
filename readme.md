@@ -29,3 +29,4 @@ Git Commands
 18.	git push – Push commits to remote (GitHub) 
 19.	git pull – Fetch and merge changes from remote 
 20.	git clone – Copy a remote repo locally 
+21.
