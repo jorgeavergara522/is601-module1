@@ -37,3 +37,8 @@ Git Commands
 19.	git pull – Fetch and merge changes from remote 
 20.	git clone – Copy a remote repo locally  
 21.	git clone - Copy a repository from Github to your local machine
+22.	git checkout - Show unstaged changes in tracked files
+
+
+
+
