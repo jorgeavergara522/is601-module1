@@ -20,6 +20,7 @@ Linux Commands
 13.	ls -a – List all files, including hidden ones
 14.	cd .. – Move up one directory level
 15.	touch <file> - Creates an empty file
+16.	echo "text" > file.txt - Write text into a file (overwrites existing content)
 
 Git Commands
 
