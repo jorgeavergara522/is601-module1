@@ -40,5 +40,5 @@ Git Commands
 22.	git checkout - Show unstaged changes in tracked files
 23.     git log --oneline – Show commit history in a compact form23. git log --oneline – Show commit history in a compact form
 24. 	git reset --hard <commit> – Reset the repo to a specific commit (discarding changes)
-
+25.	git remote -v – Show the remote repositories linked to your project
 
