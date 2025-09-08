@@ -39,6 +39,6 @@ Git Commands
 21.	git clone - Copy a repository from Github to your local machine
 22.	git checkout - Show unstaged changes in tracked files
 23.     git log --oneline – Show commit history in a compact form23. git log --oneline – Show commit history in a compact form
-
+24. 	git reset --hard <commit> – Reset the repo to a specific commit (discarding changes)
 
 
