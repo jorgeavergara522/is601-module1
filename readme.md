@@ -18,7 +18,8 @@ Linux Commands
 11.	pwd - Show the current working directory
 12.	ls -l - List files with details like permissions, size, and date
 13.	ls -a – List all files, including hidden ones
-
+14.	cd .. – Move up one directory level
+15.	touch <file> - Creates an empty file
 
 Git Commands
 
