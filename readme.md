@@ -22,6 +22,7 @@ Linux Commands
 15.	touch <file> - Creates an empty file
 16.	echo "text" > file.txt - Write text into a file (overwrites existing content)
 17.	history - Show the list of previously used commands
+18.	grep "word" file.txt - Search for a word inside a file
 
 Git Commands
 
